@@ -1,5 +1,5 @@
 {
-    "name": "golam-sorwar/contact",
+    "name": "golamsorwar/contact",
     "description": "This will send email to user and save contact query in database",
     "type": "library",
     "license": "MIT",
