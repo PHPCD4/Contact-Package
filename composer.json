@@ -1,5 +1,5 @@
 {
-    "name": "golamsorwar/contact",
+    "name": "phpcd4/contact",
     "description": "This will send email to user and save contact query in database",
     "type": "library",
     "license": "MIT",
